@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.1] - 2020-01-22
+### Added
+- Added support for `boolean` in values.
+
 ## [0.1.0] - 2020-01-22
 ### Added
 - Added `.env.example` to supported file extensions.
