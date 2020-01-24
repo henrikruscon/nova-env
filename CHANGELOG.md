@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.1] - 2020-01-22
+## [0.1.1] - 2020-01-24
 ### Added
 - Added support for `boolean` in values.
 
