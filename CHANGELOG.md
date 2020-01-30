@@ -1,4 +1,6 @@
-# Changelog
+## [0.1.2] - 2020-01-30
+### Added
+- Added support for Nova `v1.0b7`.
 
 ## [0.1.1] - 2020-01-24
 ### Added
