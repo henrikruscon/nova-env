@@ -1,3 +1,7 @@
+## [0.1.3] - 2020-01-30
+### Changed
+- Improved extension icon.
+
 ## [0.1.2] - 2020-01-30
 ### Added
 - Added support for Nova `v1.0b7`.
