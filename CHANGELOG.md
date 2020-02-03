@@ -1,3 +1,7 @@
+## [1.0] - 2020-02-03
+### Changed
+- Minor tweaks for stable `1.0` release.
+
 ## [0.1.3] - 2020-01-30
 ### Changed
 - Improved extension icon.
