@@ -1,7 +1,7 @@
 {
     "identifier": "innoract.ENV",
     "name": "ENV",
-    "vendor": "Innoract",
+    "organization": "Innoract",
     "description": "Syntax highlight and code completion for .env files",
     "version": "1.0.1",
     "repository": "https://github.com/henrikdahl/nova-env",
