@@ -1,3 +1,7 @@
+## [1.0.2] - 2020-09-16
+### Fixed
+- Fixed screenshot.
+
 ## [1.0.1] - 2020-09-16
 ### Changed
 - Improved structure of project.
