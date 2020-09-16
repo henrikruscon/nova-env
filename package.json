@@ -1,0 +1,28 @@
+{
+    "name": "nova-env",
+    "version": "1.0.0",
+    "description": "Syntax highlight and code completion for .env files",
+    "scripts": {
+        "build": "rollup -c",
+        "lint": "eslint --fix --ignore-path .gitignore \"**/*.js\"",
+        "watch": "onchange -i \"src/**\" \"rollup.*.js\" -- npm run build"
+    },
+    "repository": "https://github.com/henrikdahl/nova-env",
+    "keywords": [
+        "nova",
+        "env"
+    ],
+    "author": "Henrik Ruscon",
+    "license": "MIT",
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^15.0.0",
+        "@rollup/plugin-node-resolve": "^9.0.0",
+        "eslint": "^7.9.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-nova": "^1.0.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "onchange": "^7.0.2",
+        "prettier": "^2.1.1",
+        "rollup": "^2.26.11"
+    }
+}
