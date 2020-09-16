@@ -1,3 +1,11 @@
+## [1.0.3] - 2020-09-16
+### Added
+- Added `INI` as parent,
+### Changed
+- Improved documentation.
+### Removed
+- Removed redundant file extension component `.local`.
+
 ## [1.0.2] - 2020-09-16
 ### Fixed
 - Fixed screenshot.
