@@ -2,4 +2,4 @@
 
 Syntax highlight and code completion for `.env` files.
 
-![env](example.png)
+![env](https://github.com/henrikdahl/nova-env/raw/master/ENV.novaextension/screenshot.png)
