@@ -1,3 +1,7 @@
+## [1.0.4] - 2020-09-16
+### Changed
+- Improved detectors to handle `example`, `local`, `development`, `production` extensions while also matching `ENV` content.
+
 ## [1.0.3] - 2020-09-16
 ### Added
 - Added `INI` as parent,
