@@ -5,12 +5,12 @@ export default {
     input: 'src/main.js',
     output: {
         file: 'ENV.novaextension/scripts/main.dist.js',
-        format: 'cjs'
+        format: 'cjs',
     },
     plugins: [
         commonjs(),
         nodeResolve({
-            browser: true
-        })
-    ]
+            browser: true,
+        }),
+    ],
 }
