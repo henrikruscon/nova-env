@@ -1,3 +1,8 @@
+## [1.0.1] - 2020-09-16
+### Changed
+- Improved structure of project.
+- Added example screen to README.
+
 ## [1.0] - 2020-02-03
 ### Changed
 - Minor tweaks for stable `1.0` release.

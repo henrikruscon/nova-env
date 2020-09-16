@@ -3,7 +3,7 @@
     "name": "ENV",
     "vendor": "Innoract",
     "description": "Syntax highlight and code completion for .env files",
-    "version": "1.0",
+    "version": "1.0.1",
     "repository": "https://github.com/henrikdahl/nova-env",
     "bugs": "https://github.com/henrikdahl/nova-env/issues",
     "license": "MIT",
