@@ -1,6 +1,6 @@
 {
     "name": "nova-env",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Syntax highlight and completion for .env files for Nova",
     "scripts": {
         "build": "rollup -c",
